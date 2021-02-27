@@ -1,7 +1,7 @@
 <img align="left" width="240" src="https://user-images.githubusercontent.com/59625655/109374702-47bb7200-790b-11eb-97de-800a8c1462e9.jpg"> 
 <samp><br>
   ✨ hi! <br>
-  👩🏼‍💻 i do solutions engineering at<br> 
+  👩🏼‍💻 i do solutions engineering at github<br> 
   🌁 based in sydney, downunder <br>
   📛 nicknames: halfday, datanerd, dj kolodecks <br>
   🛸 hobbies: gliding and cs:go<br>
