@@ -4,10 +4,10 @@
   👩🏼‍💻 i do solutions engineering at github<br> 
   🌁 based in sydney, downunder <br>
   📛 nicknames: halfday, datanerd, dj kolodecks <br>
-  🛸 hobbies: gliding and cs:go<br>
+  🛸 hobbies: gliding and money<br>
   🎥 watching: house md, silicon valley <br> 
   🎧 listening to: AC/DC, Jaurim, Linkin Park<br>
-  ❓ ask me about: GitHub, Atlassian tools, how to find a bargain <br> 
+  ❓ ask me about: GitHub, Atlassian tools, how to find a bargain, how investments work <br> 
   📫 find me on <a href="https://www.linkedin.com/in/andrek/">linkedin</a> <br>
 </samp>
 
