@@ -5,9 +5,10 @@
   🌁 based in sydney, downunder <br>
   📛 nicknames: halfday, datanerd, dj kolodecks <br>
   🛸 hobbies: gliding and money<br>
-  🎥 watching: house md, silicon valley <br> 
+  🎥 watching: house md, it crowd, silicon valley <br> 
   🎧 listening to: AC/DC, Jaurim, Linkin Park<br>
-  ❓ ask me about: GitHub, Atlassian tools, how to find a bargain, how investments work <br> 
+  ❓ ask me about: SonarQube, GitHub, Atlassian tools, how to find a bargain, how investments work <br> 
+  ⚡ Fun fact: we speak four languages at home
   📫 find me on <a href="https://www.linkedin.com/in/andrek/">linkedin</a> <br>
 </samp>
 
